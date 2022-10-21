@@ -1,0 +1,9 @@
+.new-team-box{
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border:10px;
+    margin:2px;
+    padding:20px;
+    background-color: rgba(120, 150, 158, 0.231);
+}
